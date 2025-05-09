@@ -71,8 +71,8 @@ streamlit run app.py
 
 Feel free to connect or contribute!
 
-📧 your-2211cs010095@mallareddyuniversity.ac.in  
-🌐 GitHub: [my-github]([https://github.com/Rohitreddy06])
+📧 2211cs010095@mallareddyuniversity.ac.in  
+🌐 GitHub: https://github.com/Rohitreddy06
 
 ## 📜 License
 
